@@ -3,5 +3,7 @@
     <version value="1"/>
     <list>
         <mapping class="com.example.fandong.coolweather.db.Province"/>
+        <mapping class="com.example.fandong.coolweather.db.City"/>
+        <mapping class="com.example.fandong.coolweather.db.Country"/>
     </list>
 </litepal>
